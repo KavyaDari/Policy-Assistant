@@ -20,4 +20,4 @@ Claude (Anthropic), used in a chat session during the 60-minute window. No LLM i
 - Helped fixing bugs in the code in `policy_qa/`, `run_eval.py`
 - Wrote README.md , WHERE_IT_BREAKS.md, DECISIONS.md after the owner verified and provided me the results 
 - Helped write eval.json with the help of owner giving the question from the assignment given and some made manually by owner.
-- Wrote `fixture_synthetic/` and eval_synthetic.json for testing
+
